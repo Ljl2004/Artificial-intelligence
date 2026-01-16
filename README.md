@@ -1,0 +1,2 @@
+这是人工智能的三个pj项目，都是关于吃豆人智能避开怪物并且寻路的python项目，只不过采取了不同的算法，涵盖有（无）信息搜索算法，对抗搜索，强化学习，贝叶斯网络，马尔可夫模型等多种算法的实现。
+These are three Python projects related to artificial intelligence, all about Pac-Man intelligently avoiding monsters and finding paths. They just adopt different algorithms, covering the implementation of various algorithms such as (un)informed search algorithms, adversarial search, reinforcement learning, Bayesian networks, and Markov models.
